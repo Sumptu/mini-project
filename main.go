@@ -6,7 +6,6 @@ import (
 	"os"
 	"strings"
 	"encoding/json"
-	"github.com/go-pdf/fpdf"
 )
 
 type Buku struct {
